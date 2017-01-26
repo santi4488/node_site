@@ -1,0 +1,6 @@
+{
+  api_urls: {
+    ice_and_fire: 'http://anapioficeandfire.com/api/',
+    
+  }
+}
